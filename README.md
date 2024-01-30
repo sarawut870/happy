@@ -1,3 +1,3 @@
 # happy
-<img src=/a3.png><img src=/a4.png>
+<img src=/a3.PNG><img src=/a4.PNG>
  สี ไม่สี
